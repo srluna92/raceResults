@@ -1,0 +1,7 @@
+.header {
+  background-color: bisque;
+  height: 6vh;
+}
+.header > h1 {
+  display: inline;
+}
